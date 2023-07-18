@@ -7,6 +7,6 @@ export default [
     {
         name: "screen",
         type: "videoTexture",
-        path: "/textures/goku.mp4"
+        path: "/textures/site.mp4"
     }
 ];
